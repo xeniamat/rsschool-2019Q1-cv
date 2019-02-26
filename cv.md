@@ -9,4 +9,4 @@ and be productive.
 6. I created my graduation project on wordpress. I was engaged in internet marketing, 
 graphic design.
 7. BSU SBMT, SkillUp
-8. Intermediate (documentation, formal speaking) 
+8. Intermediate (documentation, formal speaking, self-presentation) 
