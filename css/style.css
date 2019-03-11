@@ -1,0 +1,57 @@
+body{
+	width: 100%;
+	background: white;
+}
+main{
+	margin: 0 auto;
+	width: 1024px;
+}
+header, footer{
+	background-color: #ce6d9e;
+}
+h1{
+	margin: 0;
+	text-align: center;
+	padding: 25px;
+	font-size: 25px;
+	color: white;	
+}
+section{
+	display: flex;
+	background-color: #ceb4dd;
+}
+img{
+	margin: 40px 20px 0 40px;
+	max-height: 300px;
+}
+article{
+	margin: 20px;
+	margin-right: 40px;
+}
+p{
+	margin-bottom: 20px;
+	font-size: 18px;
+}
+.social{
+	display: flex;
+	padding: 25px;
+	margin-left: 440px; 
+}
+.social div{	
+	display: flex;
+    align-items: center;
+	justify-content: center;
+	width: 23px;
+	height: 23px;
+	background: #ce6d9e;
+	border: 1px solid #ceb4dd;
+	font-size: 15px;
+	color: #ceb4dd;
+}
+.social div a{
+	font-size: 15px;
+	color: #ceb4dd;
+}
+.social div a:hover{
+	color: white;
+}
