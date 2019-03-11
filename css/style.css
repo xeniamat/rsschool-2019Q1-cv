@@ -7,7 +7,7 @@ main{
 	width: 1024px;
 }
 header, footer{
-	background-color: #92819f;
+	background-color: #ce6d9e;
 }
 h1{
 	margin: 0;
@@ -18,7 +18,7 @@ h1{
 }
 section{
 	display: flex;
-	background-color: #ffd77a;
+	background-color: #ceb4dd;
 }
 img{
 	margin: 40px 20px 0 40px;
@@ -43,14 +43,14 @@ p{
 	justify-content: center;
 	width: 23px;
 	height: 23px;
-	background: #ffd77a;
-	border: 1px solid #92819f;
+	background: #ce6d9e;
+	border: 1px solid #ceb4dd;
 	font-size: 15px;
-	color: #92819f;
+	color: #ceb4dd;
 }
 .social div a{
 	font-size: 15px;
-	color: #92819f;
+	color: #ceb4dd;
 }
 .social div a:hover{
 	color: white;
